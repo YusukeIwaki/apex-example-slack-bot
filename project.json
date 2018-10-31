@@ -1,0 +1,8 @@
+{
+  "name": "exp-slack-bot",
+  "description": "example slack bot",
+  "runtime": "python3.6",
+  "memory": 128,
+  "timeout": 10,
+  "role": "arn:aws:iam::000000000000:role/exp-slack-bot_lambda_function"
+}
